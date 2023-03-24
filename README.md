@@ -9,3 +9,7 @@ il a continué à prouver que parfois, moins c'est vraiment plus.
 <br/> Mais l'erreur de jugement; elle, c'était de croire que la facilité lui ouvrirait des portes!
 <br/> Quand ses collègues de travail découvrirent que ce __moins__ bloquerait l'intégralité de leurs travaux,
 <br/> il se retrouva bien mis à mal quand le c4 atterit dans sa boîte mail.
+
+<br/> Frustré par cette nouvelle cinglante, notre programmeur jura qu'il n'en resterait pas là.
+<br/> Utilisant les __fabuleuses__ compétences de ChatGPT, il se fit son propre avocat.
+<br/> Le lendemain, une réponse très pointilleuse arriva sur le bureau du patron...
